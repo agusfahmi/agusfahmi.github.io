@@ -77,8 +77,8 @@ body {
 
 .text-box .fake-btn {
   position: absolute;
-  right: 20px;
-  bottom: 40px;
+  right: 15px;
+  bottom: 10px;
   color: #fff;
   background-color: rgb(21, 161, 237);
   padding: 5px 8px;
@@ -268,7 +268,7 @@ body {
 
   .text-box .fake-btn {
     right: 5px;
-    bottom: -38px;
+    bottom: -20px;
   }
 
   .idea-5 span {
